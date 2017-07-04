@@ -1,0 +1,3 @@
+javac org/dta/Bonjour.java --> Para compilar
+java org/dta/Bonjour !!!(args) --> Para lanzar el programa
+javadoc d- docjava org/dta/Bonjour.java --> Generar el javadoc en la carpeta docjava
