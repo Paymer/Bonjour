@@ -1,6 +1,6 @@
 /** 
 *@author Paupau
-*@see www.XYZ.com 
+*see (no se puede poner la arroba por que no hay ningun archivo de referencia)
 *@version 1.0
 */
 
