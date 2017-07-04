@@ -1,3 +1,6 @@
+Al meter el paquete hay aue crear la estructura de carpetas y referenciarlo en la consola.
+
+
 javac org/dta/Bonjour.java --> Para compilar
 java org/dta/Bonjour !!!(args) --> Para lanzar el programa
 javadoc d- docjava org/dta/Bonjour.java --> Generar el javadoc en la carpeta docjava
